@@ -1,4 +1,5 @@
 🎯OBJECTIVE
+
 -To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency.
 
 -To identify the average number of pizzas in an order, as well as the top-selling pizzas, in order to inform inventory management and marketing strategies.
@@ -8,6 +9,7 @@
 -To assess the popularity of various pizzas on the menu and identify any underperforming items or opportunities for promotion in order to optimize the menu and increase sales.
 
 📰About the dataset:
+
 This dataset contains 4 tables in CSV format
 
 -The Orders table contains the date & time that all table orders were placed
@@ -19,6 +21,7 @@ This dataset contains 4 tables in CSV format
 -The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients.
 
 📝Steps Performed:
+
 -Connected and transformed raw data from Excel files and designed interactive reports and dashboards to complete the task.
 
 -Re-modelled the data relationship.
